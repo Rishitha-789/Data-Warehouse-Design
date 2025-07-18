@@ -1,6 +1,6 @@
 # Data Warehouse Project
 
-This project demonstrates a **star schema** design for a retail data warehouse implemented in **MySQL**. It includes dimension and fact tables, sample data with Indian and Canadian names, and complex analytical SQL queries.
+This project demonstrates a **star schema** design for a retail data warehouse implemented in **MySQL**. 
 
 ## Features
 
