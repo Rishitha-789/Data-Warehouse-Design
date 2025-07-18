@@ -27,3 +27,5 @@ Sample Query 2 Output
 ![Sample Query 2 Output](sc2.png)
 Sample Query 3 Output
 ![Sample Query 3 Output](sc3.png)
+Warehose Design ER Diagram
+![Warehouse ER Diagram](warehouse.png)
